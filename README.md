@@ -12,7 +12,7 @@ I build agentic AI systems and ML pipelines, from LLM orchestration and vector s
 
 🎯 **Looking for**: Summer 2027 SWE / AI-ML internships
 
-☕️ **Building Now**: [Career Signal](https://github.com/hudasir4j/career-signal) — a LangGraph-based agent that monitors and extracts internship postings in real time, with a hand-labeled eval harness and CI-gated deployment.
+☕️ **Building Now**: [rolegrep]([https://github.com/hudasir4j/career-signal](https://github.com/hudasir4j/rolegrep)) — a LangGraph-based agent that monitors and extracts internship postings in real time, with a hand-labeled eval harness and CI-gated deployment.
 
 <br>
 
